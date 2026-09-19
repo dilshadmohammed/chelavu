@@ -68,44 +68,16 @@ class _AuthScreenState extends State<AuthScreen> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
-                  // App Brand
-                  Container(
-                    width: 56,
-                    height: 56,
-                    margin: const EdgeInsets.only(bottom: 16),
-                    decoration: BoxDecoration(
-                      color: isDark ? Colors.white : Colors.black,
-                      borderRadius: BorderRadius.circular(16),
-                    ),
-                    alignment: Alignment.center,
-                    child: Text(
-                      'CL',
-                      style: TextStyle(
-                        fontSize: 22,
-                        fontWeight: FontWeight.w800,
-                        color: isDark ? Colors.black : Colors.white,
-                        letterSpacing: -1.0,
-                      ),
-                    ),
-                  ),
                   Text(
                     'Chelavu',
                     style: TextStyle(
-                      fontSize: 32,
-                      fontWeight: FontWeight.w800,
-                      letterSpacing: -1.0,
+                      fontSize: 30,
+                      fontWeight: FontWeight.w700,
+                      letterSpacing: -0.8,
                       color: isDark ? Colors.white : Colors.black,
                     ),
                   ),
-                  const SizedBox(height: 4),
-                  Text(
-                    'Personal & Family Expense Ledger',
-                    style: TextStyle(
-                      fontSize: 14,
-                      color: isDark ? AppColors.darkTextSecondary : AppColors.lightTextSecondary,
-                    ),
-                  ),
-                  const SizedBox(height: 32),
+                  const SizedBox(height: 24),
 
                   // Mode Toggle (Login vs Register)
                   Container(
@@ -223,28 +195,9 @@ class _AuthScreenState extends State<AuthScreen> {
                               child: CircularProgressIndicator(strokeWidth: 2),
                             )
                           : Text(
-                              _isLogin ? 'Sign In' : 'Create Chelavu Account',
+                              _isLogin ? 'Sign In' : 'Create Account',
                               style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w600),
                             ),
-                    ),
-                  ),
-                  const SizedBox(height: 16),
-
-                  // Instant Demo Mode option
-                  SizedBox(
-                    height: 44,
-                    child: OutlinedButton(
-                      onPressed: () => authProv.enterDemoMode(),
-                      style: OutlinedButton.styleFrom(
-                        foregroundColor: isDark ? Colors.white70 : Colors.black87,
-                        side: BorderSide(
-                          color: isDark ? AppColors.darkBorder : AppColors.lightBorder,
-                        ),
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(10),
-                        ),
-                      ),
-                      child: const Text('Try in Demo Mode (No Login Required)'),
                     ),
                   ),
                 ],

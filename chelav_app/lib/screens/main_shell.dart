@@ -35,31 +35,9 @@ class _MainShellState extends State<MainShell> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Row(
-          children: [
-            Container(
-              width: 28,
-              height: 28,
-              decoration: BoxDecoration(
-                color: isDark ? Colors.white : Colors.black,
-                borderRadius: BorderRadius.circular(6),
-              ),
-              alignment: Alignment.center,
-              child: Text(
-                'CL',
-                style: TextStyle(
-                  fontSize: 12,
-                  fontWeight: FontWeight.w800,
-                  color: isDark ? Colors.black : Colors.white,
-                ),
-              ),
-            ),
-            const SizedBox(width: 10),
-            const Text(
-              'Chelavu',
-              style: TextStyle(fontWeight: FontWeight.w700, letterSpacing: -0.5),
-            ),
-          ],
+        title: const Text(
+          'Chelavu',
+          style: TextStyle(fontWeight: FontWeight.w700, letterSpacing: -0.5),
         ),
         actions: [
           IconButton(

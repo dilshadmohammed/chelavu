@@ -68,7 +68,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
         children: [
           // Account Profile Section
           Text(
-            'ACCOUNT & MULTI-DEVICE SYNC',
+            'ACCOUNT',
             style: TextStyle(
               fontSize: 11,
               fontWeight: FontWeight.w600,
@@ -93,25 +93,21 @@ class _SettingsScreenState extends State<SettingsScreen> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      authProv.user?.name ?? 'Guest Account',
+                      authProv.user?.name ?? 'Dilshad',
                       style: const TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
                     ),
                     Container(
                       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 3),
                       decoration: BoxDecoration(
-                        color: authProv.isDemoMode
-                            ? (isDark ? const Color(0xFF262626) : const Color(0xFFE4E4E7))
-                            : AppColors.semanticGreenSubtle,
+                        color: AppColors.semanticGreenSubtle,
                         borderRadius: BorderRadius.circular(6),
                       ),
-                      child: Text(
-                        authProv.isDemoMode ? 'Demo Mode' : 'Cloud Synced',
+                      child: const Text(
+                        'Cloud Synced',
                         style: TextStyle(
                           fontSize: 11,
                           fontWeight: FontWeight.w600,
-                          color: authProv.isDemoMode
-                              ? (isDark ? AppColors.darkTextSecondary : AppColors.lightTextSecondary)
-                              : AppColors.semanticGreen,
+                          color: AppColors.semanticGreen,
                         ),
                       ),
                     ),

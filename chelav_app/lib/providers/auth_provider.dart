@@ -8,13 +8,11 @@ class AuthProvider extends ChangeNotifier {
   UserModel? _user;
   bool _isLoading = false;
   String? _errorMessage;
-  bool _isDemoMode = false;
 
   UserModel? get user => _user;
   bool get isLoading => _isLoading;
   String? get errorMessage => _errorMessage;
-  bool get isAuthenticated => apiClient.isAuthenticated || _isDemoMode;
-  bool get isDemoMode => _isDemoMode;
+  bool get isAuthenticated => apiClient.isAuthenticated;
 
   AuthProvider({required this.apiClient});
 
@@ -55,7 +53,6 @@ class AuthProvider extends ChangeNotifier {
         final token = res['token'];
         await apiClient.setToken(token);
         _user = UserModel.fromJson(res['user']);
-        _isDemoMode = false;
         _isLoading = false;
         notifyListeners();
         return true;
@@ -89,7 +86,6 @@ class AuthProvider extends ChangeNotifier {
         final token = res['token'];
         await apiClient.setToken(token);
         _user = UserModel.fromJson(res['user']);
-        _isDemoMode = false;
         _isLoading = false;
         notifyListeners();
         return true;
@@ -110,18 +106,6 @@ class AuthProvider extends ChangeNotifier {
   Future<void> logout() async {
     await apiClient.setToken(null);
     _user = null;
-    _isDemoMode = false;
-    notifyListeners();
-  }
-
-  void enterDemoMode() {
-    _isDemoMode = true;
-    _user = UserModel(
-      id: 'demo_user',
-      name: 'Demo Account',
-      email: 'demo@chelav.app',
-      currency: 'INR',
-    );
     notifyListeners();
   }
 }

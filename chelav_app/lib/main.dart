@@ -52,32 +52,9 @@ class ChelavuApp extends StatelessWidget {
       darkTheme: AppTheme.darkTheme,
       themeMode: themeProv.themeMode,
       home: authProv.isLoading
-          ? Scaffold(
+          ? const Scaffold(
               body: Center(
-                child: Column(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    Container(
-                      width: 48,
-                      height: 48,
-                      decoration: BoxDecoration(
-                        color: themeProv.isDarkMode ? Colors.white : Colors.black,
-                        borderRadius: BorderRadius.circular(12),
-                      ),
-                      alignment: Alignment.center,
-                      child: Text(
-                        'CL',
-                        style: TextStyle(
-                          fontSize: 18,
-                          fontWeight: FontWeight.w800,
-                          color: themeProv.isDarkMode ? Colors.black : Colors.white,
-                        ),
-                      ),
-                    ),
-                    const SizedBox(height: 16),
-                    const CircularProgressIndicator(strokeWidth: 2),
-                  ],
-                ),
+                child: CircularProgressIndicator(strokeWidth: 2),
               ),
             )
           : (authProv.isAuthenticated ? const MainShell() : const AuthScreen()),
