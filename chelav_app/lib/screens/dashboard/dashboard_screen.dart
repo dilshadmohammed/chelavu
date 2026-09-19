@@ -93,7 +93,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                     ),
                     const SizedBox(height: 2),
                     Text(
-                      'CheLav Financial Ledger',
+                      'Chelavu Financial Ledger',
                       style: Theme.of(context).textTheme.titleLarge,
                     ),
                   ],

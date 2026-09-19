@@ -32,13 +32,13 @@ void main() async {
           },
         ),
       ],
-      child: const CheLavApp(),
+      child: const ChelavuApp(),
     ),
   );
 }
 
-class CheLavApp extends StatelessWidget {
-  const CheLavApp({super.key});
+class ChelavuApp extends StatelessWidget {
+  const ChelavuApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -46,7 +46,7 @@ class CheLavApp extends StatelessWidget {
     final authProv = context.watch<AuthProvider>();
 
     return MaterialApp(
-      title: 'CheLav Finance',
+      title: 'Chelavu',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,

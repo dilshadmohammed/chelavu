@@ -56,7 +56,7 @@ class _MainShellState extends State<MainShell> {
             ),
             const SizedBox(width: 10),
             const Text(
-              'CheLav',
+              'Chelavu',
               style: TextStyle(fontWeight: FontWeight.w700, letterSpacing: -0.5),
             ),
           ],

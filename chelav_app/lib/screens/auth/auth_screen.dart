@@ -89,7 +89,7 @@ class _AuthScreenState extends State<AuthScreen> {
                     ),
                   ),
                   Text(
-                    'CheLav',
+                    'Chelavu',
                     style: TextStyle(
                       fontSize: 32,
                       fontWeight: FontWeight.w800,
@@ -223,7 +223,7 @@ class _AuthScreenState extends State<AuthScreen> {
                               child: CircularProgressIndicator(strokeWidth: 2),
                             )
                           : Text(
-                              _isLogin ? 'Sign In' : 'Create CheLav Account',
+                              _isLogin ? 'Sign In' : 'Create Chelavu Account',
                               style: const TextStyle(fontSize: 15, fontWeight: FontWeight.w600),
                             ),
                     ),

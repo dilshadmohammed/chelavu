@@ -7819,7 +7819,7 @@ q=new A.tF(A.aBK())
 s=2
 return A.G(q.js(),$async$aAP)
 case 2:p=t.YA
-p=A.aU7(B.F1,A.b([new A.Cg(new A.xI(q,null,null,t.sk),null,null,null,null,t.yn),A.a3h(new A.aAS(),t.eC),A.a3h(new A.aAT(q),t.W0),A.a3h(new A.aAU(q),t.Ju),A.a3h(new A.aAV(q),p),A.aR2(new A.aAW(q),new A.aAX(),p,t.IZ)],t.Ds))
+p=A.aU7(B.F2,A.b([new A.Cg(new A.xI(q,null,null,t.sk),null,null,null,null,t.yn),A.a3h(new A.aAS(),t.eC),A.a3h(new A.aAT(q),t.W0),A.a3h(new A.aAU(q),t.Ju),A.a3h(new A.aAV(q),p),A.aR2(new A.aAW(q),new A.aAX(),p,t.IZ)],t.Ds))
 if($.a0==null)A.aDO()
 o=$.a0
 o.toString
@@ -16714,7 +16714,7 @@ a4=A.aWL(c6)
 t.kW.a(d4)
 t.Q6.a(c8)
 a5=c8==null?B.CU:c8
-c4=A.aDz(c5,o,a5,h===!0,B.D_,B.Ob,B.Dk,B.Ds,c9,B.DH,b1,j,e,d1,B.EW,B.F2,B.F3,d2,c5,B.Gx,B.Gy,f,B.GK,b2,i,d3,B.GW,B.GX,B.HU,B.HY,a4,B.I0,B.I3,a0,b3,b0,a1,B.Ip,c2,g,d4,B.K2,r,B.Og,B.Oh,B.Oi,B.Ou,B.Ov,B.Ox,B.Pq,B.Eo,s,B.Qg,d5,b,c,c3,c1,B.Qh,B.Qi,d6,B.R7,B.R8,B.R9,a9,B.Ra,B.f,B.Ta,B.Tj,b4,p,B.BL,B.TT,B.TW,B.Ul,d7,B.Zj,B.Zk,B.Zp,b8,a8,d8,q)
+c4=A.aDz(c5,o,a5,h===!0,B.D_,B.Ob,B.Dk,B.Ds,c9,B.DH,b1,j,e,d1,B.EW,B.F1,B.F3,d2,c5,B.Gx,B.Gy,f,B.GK,b2,i,d3,B.GW,B.GX,B.HU,B.HY,a4,B.I0,B.I3,a0,b3,b0,a1,B.Ip,c2,g,d4,B.K2,r,B.Og,B.Oh,B.Oi,B.Ou,B.Ov,B.Ox,B.Pq,B.Eo,s,B.Qg,d5,b,c,c3,c1,B.Qh,B.Qi,d6,B.R7,B.R8,B.R9,a9,B.Ra,B.f,B.Ta,B.Tj,b4,p,B.BL,B.TT,B.TW,B.Ul,d7,B.Zj,B.Zk,B.Zp,b8,a8,d8,q)
 return c4},
 aDz(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,c0,c1,c2,c3,c4,c5,c6,c7,c8,c9,d0,d1,d2,d3,d4,d5,d6,d7,d8,d9,e0,e1,e2,e3,e4,e5,e6,e7,e8,e9,f0,f1,f2,f3,f4,f5,f6,f7,f8,f9,g0,g1,g2,g3){return new A.iP(d,s,b1,b,c1,c3,d1,d2,e2,f1,!0,g3,l,m,r,a4,a5,b4,b5,b6,b7,d4,d5,d6,e1,e5,e7,f0,g1,b9,d7,d8,f6,g0,a,c,e,f,g,h,i,k,n,o,p,q,a0,a1,a3,a6,a7,a8,a9,b0,b2,b3,b8,c2,c4,c5,c6,c7,c8,c9,d0,d3,d9,e0,e3,e4,e6,e8,e9,f2,f3,f4,f5,f7,f8,f9,j,a2,c0)},
 aWI(){var s=null
@@ -45250,7 +45250,7 @@ i=k?B.e:B.f
 h=A.aw(12)
 i=A.kv(o,o,A.e7(A.bR(A.b([A.aW(B.N,A.a_("CL",o,o,o,o,A.av(o,o,k?B.f:B.e,o,o,o,o,o,o,o,o,18,o,o,B.d3,o,o,!0,o,o,o,o,o,o,o,o),o,o,o),B.m,o,o,new A.aR(i,o,o,h,o,o,B.z),o,48,o,o,o,o,48),B.aY,B.hK],t.p),B.p,B.o,B.aW),o,o),o)
 k=i}else{k=m.a.b
-k=k!=null&&k.length!==0||m.e?B.NT:B.CX}return new A.Bu(k,"CheLav Finance",q,p,j,!1,o)}}
+k=k!=null&&k.length!==0||m.e?B.NT:B.CX}return new A.Bu(k,"Chelavu",q,p,j,!1,o)}}
 A.cK.prototype={
 ic(){var s=this
 return A.ag(["id",s.a,"name",s.b,"scope",s.c,"icon",s.d,"color",s.e,"isCustom",s.f,"isDisabled",s.r,"sortOrder",s.w],t.N,t.z)}}
@@ -46170,7 +46170,7 @@ k.ff(A.R4(null,null,null,B.ax,null,B.v,null,A.a_(l==null?"Authentication failed"
 return A.K($async$vi,r)},
 H(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.B(a).ax.a===B.U,g=A.cf(a,!0,t.W0),f=h?B.e:B.f,e=A.aw(16)
 f=A.aW(B.N,A.a_("CL",i,i,i,i,A.av(i,i,h?B.f:B.e,i,i,i,i,i,i,i,i,22,i,i,B.d3,i,i,!0,i,-1,i,i,i,i,i,i),i,i,i),B.m,i,i,new A.aR(f,i,i,e,i,i,B.z),i,56,B.fr,i,i,i,56)
-e=A.a_("CheLav",i,i,i,i,A.av(i,i,h?B.e:B.f,i,i,i,i,i,i,i,i,32,i,i,B.d3,i,i,!0,i,-1,i,i,i,i,i,i),i,i,i)
+e=A.a_("Chelavu",i,i,i,i,A.av(i,i,h?B.e:B.f,i,i,i,i,i,i,i,i,32,i,i,B.d3,i,i,!0,i,-1,i,i,i,i,i,i),i,i,i)
 s=A.a_("Personal & Family Expense Ledger",i,i,i,i,A.av(i,i,h?B.y:B.ar,i,i,i,i,i,i,i,i,14,i,i,i,i,i,!0,i,i,i,i,i,i,i,i),i,i,i)
 r=h?B.ff:B.c5
 q=A.aw(10)
@@ -46200,12 +46200,12 @@ e=h?B.e:B.f
 s=h?B.f:B.e
 s=A.pT(i,i,e,i,i,i,i,i,i,s,i,i,i,i,new A.bT(A.aw(10),B.u),i,i,i,i,i)
 if(g.c)e=B.hi
-else e=A.a_(j.d?"Sign In":"Create CheLav Account",i,i,i,i,B.eH,i,i,i)
+else e=A.a_(j.d?"Sign In":"Create Chelavu Account",i,i,i,i,B.eH,i,i,i)
 q.push(A.cA(A.pS(e,f,s),48,i))
 q.push(B.aY)
 f=h?B.a1:B.a7
 e=h?B.G:B.F
-q.push(A.cA(new A.C2(!1,new A.and(g),i,i,i,A.aD0(i,i,i,i,i,i,i,i,i,f,i,i,i,i,new A.bT(A.aw(10),B.u),new A.aB(e,1,B.t,-1),i,i,i,i),i,i,!1,i,!0,i,B.YH,i),44,i))
+q.push(A.cA(new A.C2(!1,new A.and(g),i,i,i,A.aD0(i,i,i,i,i,i,i,i,i,f,i,i,i,i,new A.bT(A.aw(10),B.u),new A.aB(e,1,B.t,-1),i,i,i,i),i,i,!1,i,!0,i,B.YI,i),44,i))
 return A.kv(i,i,A.D0(!0,A.e7(A.rx(new A.df(B.DB,A.bR(q,B.bT,B.iV,B.n),i),i,B.H,B.HN,i,B.ao),i,i),!0,!0,!0),i)}}
 A.anb.prototype={
 $0(){var s=this.a
@@ -46296,7 +46296,7 @@ return A.K($async$$0,r)},
 $S:8}
 A.aoD.prototype={
 $1(a){var s=this,r=null,q=s.b,p=A.a_('Rename "'+q.b+'"',r,r,r,r,r,r,r,r),o=s.c,n=A.eL(r,B.az,!0,r,!0,B.v,r,A.f7(),o,r,r,r,r,r,2,B.Jw,B.H,!0,r,!0,r,!1,r,B.aB,r,r,r,r,r,r,r,r,1,r,r,!1,"\u2022",r,r,r,r,r,!1,r,r,!1,r,!0,r,B.aT,r,r,r,r,r,r,r,r,r,r,r,r,!0,B.a5,r,B.aZ,r,r,r,r),m=A.ib(B.jD,new A.aoB(a),r),l=s.d,k=l?B.e:B.f
-return A.a1O(A.b([m,A.pS(B.YN,new A.aoC(s.a,o,q,a),A.pT(r,r,k,r,r,r,r,r,r,l?B.f:B.e,r,r,r,r,r,r,r,r,r,r))],t.p),n,p)},
+return A.a1O(A.b([m,A.pS(B.YO,new A.aoC(s.a,o,q,a),A.pT(r,r,k,r,r,r,r,r,r,l?B.f:B.e,r,r,r,r,r,r,r,r,r,r))],t.p),n,p)},
 $S:86}
 A.aoB.prototype={
 $0(){A.cU(this.a,!1).ec(null)
@@ -46353,7 +46353,7 @@ else r=n?B.e:B.f
 q=t.p
 s=A.b([A.a_(a.b,o,o,o,o,A.av(o,o,r,o,s,o,o,o,o,o,o,14,o,o,B.I,o,o,!0,o,o,o,o,o,o,o,o),o,o,o)],q)
 if(a.f){r=n?B.G:B.F
-B.b.L(s,A.b([B.hh,A.aW(o,B.YW,B.m,o,o,new A.aR(r,o,o,A.aw(4),o,o,B.z),o,o,o,B.HQ,o,o,o)],q))}s=A.b4(s,B.p,B.o,B.n,0)
+B.b.L(s,A.b([B.hh,A.aW(o,B.YX,B.m,o,o,new A.aR(r,o,o,A.aw(4),o,o,B.z),o,o,o,B.HQ,o,o,o)],q))}s=A.b4(s,B.p,B.o,B.n,0)
 r=i?"Disabled":"Active"
 if(i)p=B.ax
 else p=n?B.V:B.y
@@ -46416,9 +46416,9 @@ H(a){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.B(a).ax.a===B.U,g=A.cf(a,!0,t.YA).b
 d=d==null?i:d.b
 if(d==null)d="User"
 s=t.p
-d=A.b([A.bR(A.b([A.a_("Welcome, "+d,i,i,i,i,A.av(i,i,h?B.y:B.ar,i,i,i,i,i,i,i,i,14,i,i,B.a2,i,i,!0,i,i,i,i,i,i,i,i),i,i,i),B.Bv,A.a_("CheLav Financial Ledger",i,i,i,i,A.B(a).ok.r,i,i,i)],s),B.a3,B.o,B.n)],s)
+d=A.b([A.bR(A.b([A.a_("Welcome, "+d,i,i,i,i,A.av(i,i,h?B.y:B.ar,i,i,i,i,i,i,i,i,14,i,i,B.a2,i,i,!0,i,i,i,i,i,i,i,i),i,i,i),B.Bv,A.a_("Chelavu Financial Ledger",i,i,i,i,A.B(a).ok.r,i,i,i)],s),B.a3,B.o,B.n)],s)
 if(f.e){r=h?B.G:B.F
-d.push(A.aW(i,B.YQ,B.m,i,i,new A.aR(r,i,i,A.aw(6),i,i,B.z),i,i,i,B.pw,i,i,i))}d=A.b4(d,B.p,B.ac,B.n,0)
+d.push(A.aW(i,B.YR,B.m,i,i,new A.aR(r,i,i,A.aw(6),i,i,B.z),i,i,i,B.pw,i,i,i))}d=A.b4(d,B.p,B.ac,B.n,0)
 r=A.b4(A.b([A.d2(j.Fn(a,B.ax,!0,"+ Expense",j.gan1()),1),B.cv,A.d2(j.Fn(a,B.cH,!1,"+ Income",j.gan3()),1),B.cv,A.d2(j.Fn(a,B.dq,!1,"+ Savings",j.gan5()),1)],s),B.p,B.o,B.n,0)
 q=A.a_("Today's Expenses",i,i,i,i,A.B(a).ok.w,i,i,i)
 p=h?B.kH:B.c5
@@ -46490,7 +46490,7 @@ A.Br.prototype={
 aa(){return new A.VY()}}
 A.VY.prototype={
 H(a){var s,r,q,p=null,o=A.B(a).ax.a===B.U,n=A.cf(a,!0,t.eC),m=o?B.e:B.f,l=A.aw(6),k=t.p
-l=A.b4(A.b([A.aW(B.N,A.a_("CL",p,p,p,p,A.av(p,p,o?B.f:B.e,p,p,p,p,p,p,p,p,12,p,p,B.d3,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),B.m,p,p,new A.aR(m,p,p,l,p,p,B.z),p,28,p,p,p,p,28),B.hg,B.YY],k),B.p,B.o,B.n,0)
+l=A.b4(A.b([A.aW(B.N,A.a_("CL",p,p,p,p,A.av(p,p,o?B.f:B.e,p,p,p,p,p,p,p,p,12,p,p,B.d3,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),B.m,p,p,new A.aR(m,p,p,l,p,p,B.z),p,28,p,p,p,p,28),B.hg,B.YH],k),B.p,B.o,B.n,0)
 m=A.pi(A.b([A.dB(p,p,A.fg(n.a===B.db?B.IM:B.II,p,p,20),p,p,new A.at2(n),p,p,"Toggle Dark/Light Mode"),A.dB(p,p,B.J9,p,p,new A.at3(a),p,p,"Categories"),A.dB(p,p,B.J1,p,p,new A.at4(a),p,p,"Settings")],k),p,p,p,p,p,p,p,l)
 l=this.d
 k=o?B.G:B.F
@@ -46541,7 +46541,7 @@ case 2:o=b
 if(o!=null)p.atx(o.a.q3().split("T")[0],"custom",o.b.q3().split("T")[0])
 return A.J(null,r)}})
 return A.K($async$v4,r)},
-H(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.B(a).ax.a===B.U,i=A.cf(a,!0,t.YA),h=i.d,g=i.x,f=t.p,e=A.pi(A.b([A.dB(k,k,B.J_,k,k,l.gakR(),k,k,"Custom Date Range")],f),k,k,k,k,k,k,k,B.YL),d=j?B.e:B.f,c=j?B.ov:B.F,b=A.aw(10)
+H(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.B(a).ax.a===B.U,i=A.cf(a,!0,t.YA),h=i.d,g=i.x,f=t.p,e=A.pi(A.b([A.dB(k,k,B.J_,k,k,l.gakR(),k,k,"Custom Date Range")],f),k,k,k,k,k,k,k,B.YM),d=j?B.e:B.f,c=j?B.ov:B.F,b=A.aw(10)
 b=A.aW(k,A.b4(A.b([l.Fp("all","All Spending",j,i),l.Fp("personal","Personal",j,i),l.Fp("family","Family",j,i)],f),B.p,B.o,B.n,0),B.m,k,k,new A.aR(c,k,k,b,k,k,B.z),k,k,k,B.l4,k,k,k)
 c=l.d
 c=A.Z(new A.a3(c,new A.aoI(g,i,j),A.Y(c).h("a3<1,e>")),t.l7)
@@ -46728,7 +46728,7 @@ aa(){return new A.Wa(A.b(["January","February","March","April","May","June","Jul
 A.Wa.prototype={
 am(){this.aE()
 $.a0.ok$.push(new A.atJ(this))},
-H(a0){var s,r,q,p,o=this,n=null,m=A.B(a0).ax.a===B.U,l=A.cf(a0,!0,t.YA),k=l.e,j=l.w,i=l.r,h=A.pi(n,n,n,n,n,n,n,n,B.YX),g=m?B.e:B.f,f=m?B.am:B.e,e=A.aw(12),d=A.cX(m?B.G:B.F,1),c=o.d,b=i-1,a=t.p
+H(a0){var s,r,q,p,o=this,n=null,m=A.B(a0).ax.a===B.U,l=A.cf(a0,!0,t.YA),k=l.e,j=l.w,i=l.r,h=A.pi(n,n,n,n,n,n,n,n,B.YY),g=m?B.e:B.f,f=m?B.am:B.e,e=A.aw(12),d=A.cX(m?B.G:B.F,1),c=o.d,b=i-1,a=t.p
 e=A.b([A.aW(n,A.b4(A.b([A.dB(n,n,B.q7,n,n,l.gayA(),n,n,"Previous Month"),A.a_(c[b]+" "+j,n,n,n,n,B.C6,n,n,n),A.dB(n,n,B.q8,n,n,l.gaxa(),n,n,"Next Month")],a),B.p,B.ac,B.n,0),B.m,n,n,new A.aR(f,n,d,e,n,n,B.z),n,n,n,B.py,n,n,n),B.aY],a)
 if(l.at)e.push(B.hI)
 else if(k==null)e.push(B.F_)
@@ -46832,12 +46832,12 @@ q=A.b4(A.b([a,A.aW(j,A.a_(p,j,j,j,j,A.av(j,j,s,j,j,j,j,j,j,j,j,11,j,j,B.I,j,j,!0
 r=h.b
 a=r==null?j:r.c
 if(a==null)a="Not logged in"
-d=A.aW(j,A.bR(A.b([q,B.hj,A.a_(a,j,j,j,j,A.av(j,j,i?B.V:B.y,j,j,j,j,j,j,j,j,13,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j),B.cw,B.ic,B.cw,A.b4(A.b([B.YO,B.Za],o),B.p,B.ac,B.n,0)],o),B.a3,B.o,B.n),B.m,j,j,new A.aR(d,j,b,c,j,j,B.z),j,j,j,B.l3,j,j,j)
+d=A.aW(j,A.bR(A.b([q,B.hj,A.a_(a,j,j,j,j,A.av(j,j,i?B.V:B.y,j,j,j,j,j,j,j,j,13,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j),B.cw,B.ic,B.cw,A.b4(A.b([B.YP,B.Za],o),B.p,B.ac,B.n,0)],o),B.a3,B.o,B.n),B.m,j,j,new A.aR(d,j,b,c,j,j,B.z),j,j,j,B.l3,j,j,j)
 c=A.a_("APPEARANCE",j,j,j,j,A.av(j,j,i?B.V:B.y,j,j,j,j,j,j,j,j,11,j,j,B.I,j,j,!0,j,1,j,j,j,j,j,j),j,j,j)
 b=i?B.am:B.e
 a=A.aw(12)
 s=A.cX(i?B.G:B.F,1)
-b=A.aW(j,A.b4(A.b([A.bR(A.b([B.YT,A.a_("Minimal Black & White aesthetic",j,j,j,j,A.av(j,j,i?B.V:B.y,j,j,j,j,j,j,j,j,12,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j)],o),B.a3,B.o,B.n),new A.Ro(g.a===B.db,new A.awO(g),B.e,B.G7,j)],o),B.p,B.ac,B.n,0),B.m,j,j,new A.aR(b,j,s,a,j,j,B.z),j,j,j,B.ij,j,j,j)
+b=A.aW(j,A.b4(A.b([A.bR(A.b([B.YU,A.a_("Minimal Black & White aesthetic",j,j,j,j,A.av(j,j,i?B.V:B.y,j,j,j,j,j,j,j,j,12,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j)],o),B.a3,B.o,B.n),new A.Ro(g.a===B.db,new A.awO(g),B.e,B.G7,j)],o),B.p,B.ac,B.n,0),B.m,j,j,new A.aR(b,j,s,a,j,j,B.z),j,j,j,B.ij,j,j,j)
 a=A.a_("BACKEND SERVER CONFIGURATION",j,j,j,j,A.av(j,j,i?B.V:B.y,j,j,j,j,j,j,j,j,11,j,j,B.I,j,j,!0,j,1,j,j,j,j,j,j),j,j,j)
 s=i?B.am:B.e
 r=A.aw(12)
@@ -46852,7 +46852,7 @@ l=A.pT(j,j,l,j,j,j,j,j,j,i?B.f:B.e,j,j,j,j,j,j,j,j,j,j)
 p=A.b([p,B.bF,n,B.cw,A.b4(A.b([A.pS(k.f?B.T6:B.Z7,m,l),B.cv,A.ib(B.Z5,new A.awP(k,a0),j)],o),B.p,B.o,B.n,0)],o)
 n=k.e
 if(n!=null)B.b.L(p,A.b([B.d8,A.a_(n,j,j,j,j,A.av(j,j,B.c.n(n,"success")?B.cH:B.ax,j,j,j,j,j,j,j,j,12,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j)],o))
-return A.kv(f,j,A.uM(A.b([e,B.bF,d,B.cz,c,B.bF,b,B.cz,a,B.bF,A.aW(j,A.bR(p,B.a3,B.o,B.n),B.m,j,j,new A.aR(s,j,q,r,j,j,B.z),j,j,j,B.l3,j,j,j),B.Bw,A.cA(A.aIA(B.Jg,B.YP,new A.awQ(h),A.aD0(j,j,j,j,j,j,j,j,j,B.ax,j,j,j,j,new A.bT(A.aw(10),B.u),B.Di,j,j,j,j)),48,1/0),B.eD],o),B.ij),j)}}
+return A.kv(f,j,A.uM(A.b([e,B.bF,d,B.cz,c,B.bF,b,B.cz,a,B.bF,A.aW(j,A.bR(p,B.a3,B.o,B.n),B.m,j,j,new A.aR(s,j,q,r,j,j,B.z),j,j,j,B.l3,j,j,j),B.Bw,A.cA(A.aIA(B.Jg,B.YQ,new A.awQ(h),A.aD0(j,j,j,j,j,j,j,j,j,B.ax,j,j,j,j,new A.bT(A.aw(10),B.u),B.Di,j,j,j,j)),48,1/0),B.eD],o),B.ij),j)}}
 A.awL.prototype={
 $0(){var s=this.a
 s.f=!0
@@ -47054,7 +47054,7 @@ k=h.x?g:h.ga91()
 j=e?B.e:B.f
 i=e?B.f:B.e
 i=A.pT(g,g,j,g,g,g,0,g,g,i,g,g,g,g,new A.bT(A.aw(10),B.u),g,g,g,g,g)
-return new A.bh(new A.aa(20,20,20,b.f.d),A.rx(A.bR(A.b([a,r,B.aY,p,B.cy,q,B.cx,o,B.bF,n,B.cx,m,B.d9,l,B.cz,A.cA(A.pS(h.x?B.hi:B.YK,k,i),50,1/0),B.cy],s),B.a3,B.o,B.aW),g,B.H,g,g,B.ao),g)}}
+return new A.bh(new A.aa(20,20,20,b.f.d),A.rx(A.bR(A.b([a,r,B.aY,p,B.cy,q,B.cx,o,B.bF,n,B.cx,m,B.d9,l,B.cz,A.cA(A.pS(h.x?B.hi:B.YL,k,i),50,1/0),B.cy],s),B.a3,B.o,B.aW),g,B.H,g,g,B.ao),g)}}
 A.amo.prototype={
 $1(a){var s,r,q=this.a,p=q.c
 p.toString
@@ -47177,7 +47177,7 @@ s=m.y?l:m.ga93()
 r=k?B.e:B.f
 q=k?B.f:B.e
 q=A.pT(l,l,r,l,l,l,0,l,l,q,l,l,l,l,new A.bT(A.aw(10),B.u),l,l,l,l,l)
-i.push(A.cA(A.pS(m.y?B.hi:B.YR,s,q),50,1/0))
+i.push(A.cA(A.pS(m.y?B.hi:B.YS,s,q),50,1/0))
 i.push(B.cy)
 return new A.bh(new A.aa(20,20,20,j.f.d),A.rx(A.bR(i,B.a3,B.o,B.aW),l,B.H,l,l,B.ao),l)}}
 A.amp.prototype={
@@ -47435,7 +47435,7 @@ $0(){return this.a.r=!1},
 $S:0}
 A.aqX.prototype={
 $1(a){var s=null
-return A.a1O(A.b([A.ib(B.jD,new A.aqV(a),s),A.ib(B.C8,new A.aqW(a),A.w3(s,s,s,s,s,s,s,s,s,B.ax,s,s,s,s,s,s,s,s,s,s))],t.p),B.YU,B.YB)},
+return A.a1O(A.b([A.ib(B.jD,new A.aqV(a),s),A.ib(B.C8,new A.aqW(a),A.w3(s,s,s,s,s,s,s,s,s,B.ax,s,s,s,s,s,s,s,s,s,s))],t.p),B.YV,B.YB)},
 $S:86}
 A.aqV.prototype={
 $0(){A.cU(this.a,!1).ec(!1)
@@ -101873,14 +101873,14 @@ B.Pu=new A.bh(B.Hv,B.hK,null)
 B.hI=new A.fQ(B.N,null,null,B.Pu,null)
 B.Z6=new A.bO("No data for this month",null,null,null,null,null,null,null,null,null,null)
 B.F_=new A.fQ(B.N,null,null,B.Z6,null)
-B.YJ=new A.bO("No data found.",null,null,null,null,null,null,null,null,null,null)
-B.F0=new A.fQ(B.N,null,null,B.YJ,null)
-B.F1=new A.Lt(null)
-B.F2=new A.z_(null,null,null,null,null,null,null,null,null)
+B.YK=new A.bO("No data found.",null,null,null,null,null,null,null,null,null,null)
+B.F0=new A.fQ(B.N,null,null,B.YK,null)
+B.F1=new A.z_(null,null,null,null,null,null,null,null,null)
 B.e3=new A.tR(0,"none")
 B.dn=new A.tR(1,"isTrue")
 B.hJ=new A.tR(2,"isFalse")
 B.f6=new A.tR(3,"mixed")
+B.F2=new A.Lt(null)
 B.F3=new A.tT(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.f7=new A.dT(0,B.u)
 B.os=new A.z8(null)
@@ -103866,8 +103866,8 @@ B.h1=new A.i2(null,null)
 B.c0=new A.alI(1,"down")
 B.J5=new A.cT(B.q0,12,null,null,null)
 B.T5=new A.cj(4,null,null,null)
-B.YS=new A.bO("Custom",null,null,null,null,null,null,null,null,null,null)
-B.Ml=s([B.J5,B.T5,B.YS],t.p)
+B.YT=new A.bO("Custom",null,null,null,null,null,null,null,null,null,null)
+B.Ml=s([B.J5,B.T5,B.YT],t.p)
 B.QY=new A.D_(B.aJ,B.o,B.n,B.p,null,B.c0,null,0,B.Ml,null)
 B.QZ=new A.D2(1333)
 B.mv=new A.D2(2222)
@@ -104141,16 +104141,16 @@ B.Ti=new A.kA(5,"timeout")
 B.Tj=new A.vO(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.YG=new A.bO("Please enter a valid amount",null,null,null,null,null,null,null,null,null,null)
 B.BB=new A.eI(B.YG,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
-B.YI=new A.bO("Please enter a valid income amount",null,null,null,null,null,null,null,null,null,null)
-B.Tk=new A.eI(B.YI,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
+B.YJ=new A.bO("Please enter a valid income amount",null,null,null,null,null,null,null,null,null,null)
+B.Tk=new A.eI(B.YJ,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.YD=new A.bO("Failed to add category",null,null,null,null,null,null,null,null,null,null)
 B.Tl=new A.eI(B.YD,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.Zc=new A.bO("Failed to record income",null,null,null,null,null,null,null,null,null,null)
 B.Tm=new A.eI(B.Zc,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.Z_=new A.bO("Transaction deleted",null,null,null,null,null,null,null,null,null,null)
 B.Tn=new A.eI(B.Z_,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
-B.YM=new A.bO("Please fill all fields",null,null,null,null,null,null,null,null,null,null)
-B.To=new A.eI(B.YM,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
+B.YN=new A.bO("Please fill all fields",null,null,null,null,null,null,null,null,null,null)
+B.To=new A.eI(B.YN,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.YF=new A.bO("Please select a category",null,null,null,null,null,null,null,null,null,null)
 B.Tp=new A.eI(B.YF,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.Ze=new A.bO("Please enter a valid savings amount",null,null,null,null,null,null,null,null,null,null)
@@ -104161,8 +104161,8 @@ B.Z2=new A.bO("Failed to record savings",null,null,null,null,null,null,null,null
 B.Ts=new A.eI(B.Z2,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.Z0=new A.bO("Failed to update transaction",null,null,null,null,null,null,null,null,null,null)
 B.Tt=new A.eI(B.Z0,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
-B.YV=new A.bO("Transaction updated",null,null,null,null,null,null,null,null,null,null)
-B.Tu=new A.eI(B.YV,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
+B.YW=new A.bO("Transaction updated",null,null,null,null,null,null,null,null,null,null)
+B.Tu=new A.eI(B.YW,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.Z1=new A.bO("Failed to record expense",null,null,null,null,null,null,null,null,null,null)
 B.Tv=new A.eI(B.Z1,null,null,null,null,null,null,null,null,null,null,null,null,B.bc,!1,null,null,null,B.v,null)
 B.BC=new A.DM(0,"permissive")
@@ -104550,23 +104550,23 @@ B.YC=new A.bO("Transaction Ledger",null,null,null,null,null,null,null,null,null,
 B.C8=new A.bO("Delete",null,null,null,null,null,null,null,null,null,null)
 B.YE=new A.bO("Categories",null,null,null,null,null,null,null,null,null,null)
 B.jD=new A.bO("Cancel",null,null,null,null,null,null,null,null,null,null)
-B.YH=new A.bO("Try in Demo Mode (No Login Required)",null,null,null,null,null,null,null,null,null,null)
-B.YK=new A.bO("Save Expense",null,B.eH,null,null,null,null,null,null,null,null)
-B.YL=new A.bO("Category Reports",null,null,null,null,null,null,null,null,null,null)
-B.YN=new A.bO("Rename",null,null,null,null,null,null,null,null,null,null)
-B.UF=new A.l(!0,null,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YO=new A.bO("Currency",null,B.UF,null,null,null,null,null,null,null,null)
-B.YP=new A.bO("Sign Out / Switch Account",null,null,null,null,null,null,null,null,null,null)
-B.WW=new A.l(!0,null,null,null,null,null,11,B.I,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YQ=new A.bO("Demo Mode",null,B.WW,null,null,null,null,null,null,null,null)
-B.YR=new A.bO("Save Income",null,B.eH,null,null,null,null,null,null,null,null)
-B.YT=new A.bO("Dark Mode",null,B.dN,null,null,null,null,null,null,null,null)
-B.YU=new A.bO("This action cannot be undone.",null,null,null,null,null,null,null,null,null,null)
-B.WX=new A.l(!0,null,null,null,null,null,10,B.a2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YW=new A.bO("Custom",null,B.WX,null,null,null,null,null,null,null,null)
-B.YX=new A.bO("Monthly Overview",null,null,null,null,null,null,null,null,null,null)
 B.Vd=new A.l(!0,null,null,null,null,null,null,B.aE,null,-0.5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.YY=new A.bO("CheLav",null,B.Vd,null,null,null,null,null,null,null,null)
+B.YH=new A.bO("Chelavu",null,B.Vd,null,null,null,null,null,null,null,null)
+B.YI=new A.bO("Try in Demo Mode (No Login Required)",null,null,null,null,null,null,null,null,null,null)
+B.YL=new A.bO("Save Expense",null,B.eH,null,null,null,null,null,null,null,null)
+B.YM=new A.bO("Category Reports",null,null,null,null,null,null,null,null,null,null)
+B.YO=new A.bO("Rename",null,null,null,null,null,null,null,null,null,null)
+B.UF=new A.l(!0,null,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.YP=new A.bO("Currency",null,B.UF,null,null,null,null,null,null,null,null)
+B.YQ=new A.bO("Sign Out / Switch Account",null,null,null,null,null,null,null,null,null,null)
+B.WW=new A.l(!0,null,null,null,null,null,11,B.I,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.YR=new A.bO("Demo Mode",null,B.WW,null,null,null,null,null,null,null,null)
+B.YS=new A.bO("Save Income",null,B.eH,null,null,null,null,null,null,null,null)
+B.YU=new A.bO("Dark Mode",null,B.dN,null,null,null,null,null,null,null,null)
+B.YV=new A.bO("This action cannot be undone.",null,null,null,null,null,null,null,null,null,null)
+B.WX=new A.l(!0,null,null,null,null,null,10,B.a2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.YX=new A.bO("Custom",null,B.WX,null,null,null,null,null,null,null,null)
+B.YY=new A.bO("Monthly Overview",null,null,null,null,null,null,null,null,null,null)
 B.Z3=new A.bO("Settings",null,null,null,null,null,null,null,null,null,null)
 B.Z4=new A.bO("Existing transactions with this category will keep their label, but this category will no longer appear in new expense lists.",null,null,null,null,null,null,null,null,null,null)
 B.Z5=new A.bO("Reset to Default",null,null,null,null,null,null,null,null,null,null)
